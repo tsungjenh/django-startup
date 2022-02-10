@@ -1,4 +1,4 @@
-django==2.2.13
+django==2.2.27
 et-xmlfile==1.0.1
 marshmallow==3.0.0rc2
 bson==0.5.8
